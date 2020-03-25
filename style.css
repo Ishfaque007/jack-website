@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+p{
+    color: dimgray;
+}
 .name-highlight{
     color: rgb(233, 6, 93)
 }
@@ -25,4 +28,17 @@ h1{
 }
 section{
     height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:rgb(233, 6, 93);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    
 }
